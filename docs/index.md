@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Bienvenido a la guía para crear Mi Proyecto desde 0
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Esta guía te enseñará cómo crear **Mi Proyecto** desde cero. Seguiremos todos los pasos, desde la instalación de Python hasta la configuración final de MkDocs.
 
-## Commands
+## Secciones:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. [Instalación de Python](guias/instalacion.md)
+2. [Crear nuevo proyecto MkDocs](guias/nuevo_proyecto.md)
+2. [Configuración de MkDocs](configuracion/configuracion.md)
+3. [Personalización con CSS y JS](personalizacion/estilos.md)
+4. [Extensiones de Markdown](extensiones/admonitions.md)
